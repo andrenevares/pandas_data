@@ -7,6 +7,6 @@ dados = {'col1': ['-'], 'col2': ['-'], 'col3': ['-'], 'col4': ['-'], 'col5': ['-
 
 df = pd.DataFrame(data=dados)
 ```
-| col1	| col2 |	col3 |	col4 |col5 | col6 |
-| -	| - |	- |	- |- | - |
-| 0	| -	| -	| -	|-	| -	| - |
+| # | col1	| col2 |	col3 |	col4 |col5 | col6 |
+| -	| - | -	| - |	- |	- |- | - |
+| 0	| -	| -	| -	|-	| -	| - |  - |
