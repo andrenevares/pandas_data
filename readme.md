@@ -9,7 +9,7 @@
 #### Arquivos do Campeonato Brasileiro
 
 ##### Arquivo 01
-- [campeonato-brasileiro-full.csv]([https://github.com/andrenevares/pandas_data/blob/main/csv/campeonato_brasileiro/campeonato-brasileiro-full.csv](https://raw.githubusercontent.com/andrenevares/pandas_data/main/csv/campeonato_brasileiro/campeonato-brasileiro-full.csv))
+- [campeonato-brasileiro-full.csv](https://raw.githubusercontent.com/andrenevares/pandas_data/main/csv/campeonato_brasileiro/campeonato-brasileiro-full.csv)
 - ou utilize shortlink: bit.ly/python_brasileiro
 
 ##### Arquivo 02
